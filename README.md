@@ -37,7 +37,7 @@
 | [Grover algorithm implementation](https://github.com/telmelo/algoritmo-grover) | A basic implementation of Grover's search algorithm using basic concepts of quantum computing | Python, Qiskit, Jupyter Notebook |
 | [Coffe n' Sweets](https://github.com/telmelo/coffee_n_sweets) | An web interface developed to keep track of customers and requests in a coffee shop | Java, MySQL |
 | [Pluto-shell](https://github.com/telmelo/Pluto-shell) | A simple shell developed in a Linux system | C, Makefile |
-| [Space_invaders](https://github.com/telmelo/Space_Invaders_PIF) | A fan-remake of the classis arcade game Space Invaders | C, Raylib |
+| [Agile API](https://github.com/telmelo/agile) | A REST API integrated into Google Calendar | JDK 25, Spring Boot, Maven |
 | [Client-server](https://github.com/erosamancio/Redes) | A simple client-server communication architecture between nods | Python |
 
 
